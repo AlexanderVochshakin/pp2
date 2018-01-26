@@ -1,0 +1,2 @@
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\MaxMinNo\Max_min_no\Max_min_no\obj\Debug\Max_min_no.csprojResolveAssemblyReference.cache
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\MaxMinNo\Max_min_no\Max_min_no\obj\Debug\Max_min_no.csproj.CoreCompileInputs.cache
