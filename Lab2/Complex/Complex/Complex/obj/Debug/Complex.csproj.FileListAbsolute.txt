@@ -1,0 +1,7 @@
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\Complex\Complex\Complex\bin\Debug\Complex.exe.config
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\Complex\Complex\Complex\bin\Debug\Complex.exe
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\Complex\Complex\Complex\bin\Debug\Complex.pdb
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\Complex\Complex\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\Complex\Complex\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\Complex\Complex\Complex\obj\Debug\Complex.exe
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\Complex\Complex\Complex\obj\Debug\Complex.pdb
