@@ -1,0 +1,7 @@
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\StackFilesList\StackFilesList\StackFilesList\bin\Debug\StackFilesList.exe.config
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\StackFilesList\StackFilesList\StackFilesList\bin\Debug\StackFilesList.exe
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\StackFilesList\StackFilesList\StackFilesList\bin\Debug\StackFilesList.pdb
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\StackFilesList\StackFilesList\StackFilesList\obj\Debug\StackFilesList.csprojResolveAssemblyReference.cache
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\StackFilesList\StackFilesList\StackFilesList\obj\Debug\StackFilesList.csproj.CoreCompileInputs.cache
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\StackFilesList\StackFilesList\StackFilesList\obj\Debug\StackFilesList.exe
+D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\StackFilesList\StackFilesList\StackFilesList\obj\Debug\StackFilesList.pdb
