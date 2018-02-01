@@ -1,7 +1,0 @@
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\PrimeNo\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe.config
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\PrimeNo\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\PrimeNo\PrimeNo\PrimeNo\bin\Debug\PrimeNo.pdb
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\PrimeNo\PrimeNo\PrimeNo\obj\Debug\PrimeNo.csprojResolveAssemblyReference.cache
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\PrimeNo\PrimeNo\PrimeNo\obj\Debug\PrimeNo.csproj.CoreCompileInputs.cache
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\PrimeNo\PrimeNo\PrimeNo\obj\Debug\PrimeNo.exe
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab2\PrimeNo\PrimeNo\PrimeNo\obj\Debug\PrimeNo.pdb

@@ -1,7 +1,0 @@
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab1\RectangleClass\RectangleClass\bin\Debug\RectangleClass.exe.config
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab1\RectangleClass\RectangleClass\bin\Debug\RectangleClass.exe
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab1\RectangleClass\RectangleClass\bin\Debug\RectangleClass.pdb
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab1\RectangleClass\RectangleClass\obj\Debug\RectangleClass.csprojResolveAssemblyReference.cache
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab1\RectangleClass\RectangleClass\obj\Debug\RectangleClass.csproj.CoreCompileInputs.cache
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab1\RectangleClass\RectangleClass\obj\Debug\RectangleClass.exe
-D:\Desktop\KBTU\Homework\Programming Principles II\Lab1\RectangleClass\RectangleClass\obj\Debug\RectangleClass.pdb
