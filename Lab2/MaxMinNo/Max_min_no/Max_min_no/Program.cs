@@ -38,7 +38,7 @@ namespace MaxMin_NO
 
         static void FindMinMax()
         {
-            FileStream file = new FileStream(@"C:\Users\tleusher\Desktop\Git_Juxtapose\test.txt", FileMode.Open, FileAccess.Read);
+            FileStream file = new FileStream(@"C:\Test\RandomNums.txt.txt", FileMode.Open, FileAccess.Read);
             StreamReader num = new StreamReader(file);
 
             List<string> array = num.ReadLine().Split().ToList();

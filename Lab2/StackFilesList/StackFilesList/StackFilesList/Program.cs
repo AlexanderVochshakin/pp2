@@ -41,7 +41,7 @@ namespace StackFileViewer
 
         static void Main(string[] args)
         {
-            ShowFilesList(@"C:\Users\Админ\Desktop\Procedural Buildings in UE4 with Houdini_files");
+            ShowFilesList(@"C:\Test");
             Console.ReadKey();
         }
     }
