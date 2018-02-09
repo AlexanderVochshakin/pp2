@@ -1,0 +1,7 @@
+D:\Desktop\KBTU\Homework\Programming Principles II\Labs\Lab3\FarManager\FarManager\bin\Debug\FarManager.exe.config
+D:\Desktop\KBTU\Homework\Programming Principles II\Labs\Lab3\FarManager\FarManager\bin\Debug\FarManager.exe
+D:\Desktop\KBTU\Homework\Programming Principles II\Labs\Lab3\FarManager\FarManager\bin\Debug\FarManager.pdb
+D:\Desktop\KBTU\Homework\Programming Principles II\Labs\Lab3\FarManager\FarManager\obj\Debug\FarManager.csprojResolveAssemblyReference.cache
+D:\Desktop\KBTU\Homework\Programming Principles II\Labs\Lab3\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+D:\Desktop\KBTU\Homework\Programming Principles II\Labs\Lab3\FarManager\FarManager\obj\Debug\FarManager.exe
+D:\Desktop\KBTU\Homework\Programming Principles II\Labs\Lab3\FarManager\FarManager\obj\Debug\FarManager.pdb

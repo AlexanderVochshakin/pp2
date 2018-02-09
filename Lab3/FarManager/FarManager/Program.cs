@@ -9,7 +9,7 @@ namespace FarManager
 {
     class Program
     {
-        static void showFolderContent(DirectoryInfo cur, int pos)
+        static void ShowFolderContent(DirectoryInfo cur, int pos)
         {
             FileSystemInfo[] data = cur.GetFileSystemInfos();
             for (int i = 0; i < data.Length; i++)
@@ -27,6 +27,28 @@ namespace FarManager
             }
         }
 
+        static void DisplayFiles(string path)
+        {
+
+            Console.CursorVisible = false;
+            FileStream file = new FileStream(path, FileMode.Open, FileAccess.Read);
+            StreamReader readFile = new StreamReader(file);
+            string text = readFile.ReadToEnd();
+
+            Console.Clear();
+            Console.WriteLine();
+            Console.WriteLine(text);
+
+            file.Close();
+            readFile.Close();
+
+            ConsoleKeyInfo btn = Console.ReadKey();
+            while (btn.Key != ConsoleKey.Escape)
+            {
+                btn = Console.ReadKey();
+            }
+        }
+
         static void Main(string[] args)
         {
             Console.CursorVisible = false;
@@ -35,27 +57,34 @@ namespace FarManager
             while (true)
             {
                 Console.Clear();
-                showFolderContent(dir, pos);
+                ShowFolderContent(dir, pos);
                 ConsoleKeyInfo btn = Console.ReadKey();
                 switch (btn.Key)
                 {
+
                     case ConsoleKey.UpArrow:
                         pos--;
                         if (pos < 0)
                             pos = dir.GetFileSystemInfos().Length - 1;
                         break;
+
                     case ConsoleKey.DownArrow:
                         pos++;
                         if (pos >= dir.GetFileSystemInfos().Length)
                             pos = 0;
                         break;
+
                     case ConsoleKey.Enter:
                         FileSystemInfo f = dir.GetFileSystemInfos()[pos];
                         if (f.GetType() == typeof(DirectoryInfo))
                         {
                             dir = new DirectoryInfo(f.FullName);
                         }
-                        else { }
+                        else
+                        {
+                            string v = f.FullName;
+                            DisplayFiles(v);
+                        }
                         break;
 
                     case ConsoleKey.Escape:
